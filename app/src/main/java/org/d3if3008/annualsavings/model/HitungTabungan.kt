@@ -13,8 +13,8 @@ fun SaveEntity.hitungTabungan(): HasilSave {
         }
     } else {
         when {
-            tabungan < penghasilan*(20/100) -> KategoriSave.TINGKATKAN
-            tabungan > penghasilan*(40/100) -> KategoriSave.BERLEBIHAN
+            tabungan < penghasilan*0.2 -> KategoriSave.TINGKATKAN
+            tabungan > penghasilan*0.4 -> KategoriSave.BERLEBIHAN
             else -> KategoriSave.CUKUP
         }
     }
