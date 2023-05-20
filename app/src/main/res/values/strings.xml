@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AnnualSavings</string>
+    <string name="saving_intro">AnnualSavings adalah aplikasi untuk mengetahui sudah cukup atau tidak nya kita menabung dalam setahun berdasarkan penghasilan bulanan</string>
+    <string name="bulanan">Penghasilan Bulanan</string>
+    <string name="tabungan">Tabungan dalam 1 Bulan</string>
+    <string name="status">Status</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="bekerja">Bekerja</string>
+    <string name="hitung">Hitung</string>
+    <string name="lihat_saran">Lihat Saran</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="judul_tingkatkan">Ayo Tingkatkan Lagi!</string>
+    <string name="judul_cukup">Pertahankan Tabunganmu!</string>
+    <string name="judul_berlebihan">Berlebihan Itu Tidak Baik</string>
+    <string name="saran_tingkatkan">Cobalah untuk Menghemat pengeluaranmu dan mencoba untuk menabung lebih banyak</string>
+    <string name="saran_cukup">Pertahankan tabunganmu! Tidak perlu ditambah dan usahakan tidak berkurang!</string>
+    <string name="saran_berlebihan">Cobalah untuk tidak berlebihan pada diri sendiri, pakai uangmu untuk hal baik, tidak perlu ditabung berlebihan</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="histori">Histori</string>
+    <string name="copyright">AnnualSavings adalah aplikasi untuk menghitung jumlah tabungan kita apakah sudah cukup atau belum dalam setahun, dengan menghitung penghasilan bulanan dan tabungan yang dikeluarkan dalam 1 bulan, aplikasi akan menghitung apakah uang yang kita tabungkan dalam 1 bulan sudah cukup/kurang/berlebihan dalam 1 tahun.\n\nCopyright © 2023 Farhan Satria Nugraha.\nAll rights reserved.</string>
+    <string name="penghasilan_invalid">Penghasilan tidak boleh kosong.</string>
+    <string name="tabungan_invalid">Tabungan tidak boleh kosong.</string>
+    <string name="status_invalid">Pilih Status.</string>
+    <string name="tingkatkan">tingkatkan</string>
+    <string name="cukup">cukup</string>
+    <string name="berlebihan">berlebihan</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="hasil_x">Tabungan 1 Tahun: %1$.2f - %2$s</string>
+    <string name="data_x">P: %1$.1f - T: %2$.1f - %3$s</string>
+    <string name="save_x">Tabungan 1 Tahun: %1$.2f Rupiah</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="bagikan_template">Penghasilan: %1$s Rupiah\nTabungan Perbulan: %2$sRupiah\nStatus: %3$s\n\n%4$s\n%5$s</string>
+
+</resources>
